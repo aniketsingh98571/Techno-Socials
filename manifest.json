@@ -1,0 +1,13 @@
+{
+    "manifest_version":2,
+    "name":"Techno-Dict Socials",
+    "description":"Techno_Dict Social Links",
+    "version":"1.0.0",
+    "icons":{"150":"Drop-Down.png"},
+    "browser_action":{
+        "default_icon":"Drop-Down.png",
+        "default_popup":"popup.html"
+    },
+    "permissions":["activeTab"]
+
+}
